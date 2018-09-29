@@ -4,7 +4,7 @@ This project contains 2 datasets:
 * 911 Calls Data from Kaggle
 * Financial Data from 2007-08 during the **"Financial Crisis"**
 
-Using _Pandas, NumPy, Matplotlib, Seaborn, Plotly & Cufflinks_ the reasons behind financial crisis affecting the major US banks are answered in this project.</br>
+Using **_Pandas, NumPy, Matplotlib, Seaborn, Plotly & Cufflinks_** the reasons behind financial crisis affecting the major US banks are answered in this project.</br>
 
 With the use of Heatmap, Barplot, Histograms and many other data visualization tools help uncover the 911 Calls Data and draw insights over the questions of which area are the most crime ridden? And the timestamp when the crime reached its maximum value.
 
